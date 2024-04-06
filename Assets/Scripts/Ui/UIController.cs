@@ -11,6 +11,7 @@ public class UIController : MonoBehaviour
     {
         _killsCountText.text = _gameScoreController._killsCount.ToString();
         _collisionsCountText.text = _gameScoreController._collisionsCount.ToString();
+        //Test git hub
     }
 
     public void PauseButton()
